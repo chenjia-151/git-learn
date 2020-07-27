@@ -28,4 +28,4 @@ git merge + 分支名   合并两个分支
 
 git branch -d + 分支名  删除本地的某个分支
 
-远程新增分支dev
+新增分支dev
