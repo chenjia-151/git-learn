@@ -20,5 +20,12 @@ git diff  查看与之前提交的代码的区别
 git log  用来显示最近到最远的一次提交日志
 git log --pretty=oneline  查看每一次的提价记录
 
+git checkout -b + 新建分支名  新增一个分支
+
+git checkout + 分支名   回到某个分支
+
+git merge + 分支名   合并两个分支
+
+git branch -d + 分支名  删除本地的某个分支
 
 远程新增分支dev
