@@ -16,8 +16,11 @@ git reset --hard HEAD^  回退到上一个存档中
 git reset --hard + 某个版本的id  回退到某个特定的版本
 
 git status   查看当前的情况
+
 git diff  查看与之前提交的代码的区别
+
 git log  用来显示最近到最远的一次提交日志
+
 git log --pretty=oneline  查看每一次的提价记录
 
 git checkout -b + 新建分支名  新增一个分支
