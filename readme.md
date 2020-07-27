@@ -21,4 +21,4 @@ git log  用来显示最近到最远的一次提交日志
 git log --pretty=oneline  查看每一次的提价记录
 
 
-远程新增分支dev
+新增分支dev
