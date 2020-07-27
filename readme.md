@@ -12,7 +12,7 @@ git 进阶功能
 
 Git is free distributed under the GPL
 
-git HEAD^  回退到上一个存档中
+git reset --hard HEAD^  回退到上一个存档中
 
 git status   查看当前的情况
 git diff  查看与之前提交的代码的区别
